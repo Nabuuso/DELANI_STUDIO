@@ -4,13 +4,13 @@ section{
 
 h2{
     position: absolute;
-    top: 50%;
+    top: 55%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
 }
 
-h4{
+p{
     position: absolute;
     top: 65%;
     left:50%;
