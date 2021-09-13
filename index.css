@@ -1,6 +1,14 @@
-section{
-    height: 100vh;
+intro-section{
+    background: url(/images/h_img.jpg) center;
+    background-size: cover;
+    height: 70;
+    color: white;
 }
+
+.logo{
+    padding-top: 160px;
+}
+
 
 h2{
     position: absolute;
@@ -8,6 +16,7 @@ h2{
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
+    text-align: center;
 }
 
 p{
@@ -18,10 +27,3 @@ p{
     color: white;
 }
 
-#mouse-click{
-    padding-top : 22px;
-    margin-top: 10%;
-    padding-bottom: 30px;
-}
-    
-  
