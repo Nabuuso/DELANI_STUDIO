@@ -35,7 +35,13 @@ p{
 }
 
 #services{
+    background-image: url(./assets/backgrounds/s_image.jpg);
+    background-size: cover;
+    height: 50vh;
     text-align: center;
+    color: white;
 }
-      
+#services h6{
+    color: white;
+}    
    
