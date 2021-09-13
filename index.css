@@ -1,29 +1,4 @@
-intro-section{
-    background: url(/images/h_img.jpg) center;
+.container{
     background-size: cover;
-    height: 70;
-    color: white;
+    
 }
-
-.logo{
-    padding-top: 160px;
-}
-
-
-h2{
-    position: absolute;
-    top: 55%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-    text-align: center;
-}
-
-p{
-    position: absolute;
-    top: 65%;
-    left:50%;
-    transform: translate(-50%, -50%);
-    color: white;
-}
-
