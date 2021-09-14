@@ -9,18 +9,18 @@ $(document).ready(function(){
     $("#development").hide();
     $("#product").hide();
     $(".imgtoggle-1, .imgtoggle-1").click(function(){
-        $("#design").toggle();
-        $(".imgtoggle-1").toggle();
+        $("#design").hide();
+        $(".imgtoggle-1").hide();
     });
 
     $(".imgtoggle-2, .imgtoggle-2").click(function(){
-        $("#development").toggle();
-        $(".imgtoggle-2").toggle();
+        $("#development").hide();
+        $(".imgtoggle-2").hide();
     });
 
     $(".imgtoggle-3, .imgtoggle-3").click(function(){
-        $("#product").toggle();
-        $(".imgtoggle-3").toggle();
+        $("#product").hide();
+        $(".imgtoggle-3").hide();
     });
 });
 
