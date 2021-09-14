@@ -97,15 +97,15 @@ button{
     align-content: center;
 }
 
-.footer-icons{
-    padding-top: 30px;
+.footer{
+    padding-top: 10px;
+    padding-left: 350px;
     align-content: center;
-    padding-left: 50px;
 }
 
-.footer p{
-    text-align: center;
+.delani{
     margin-top: 20px;
+    text-align: center;
 }
 
 
