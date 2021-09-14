@@ -1,36 +1,23 @@
-#intro{
+.introduction{
     background: url(./assets/backgrounds/h_img.jpg);
     background-size: cover;
-    background-position: center center;
-    height: 100vh;
-    margin-left: 5px;
-    margin-right: 5px;
-    background-repeat: no-repeat;
+    background-position: center;
     color: white;
+    height: 650px;
+    padding-top: 180px;
+}
+
+
+.introduction> footer{
+    padding-top: 110px;
+}
+
+#about-us h3{
+    padding-top: 35px;
     text-align: center;
-    padding-top:20%; 
-    padding-left: 50%;
-    font-family: 'Gabriela', serif;
 }
 
-#intro h3{
-    text-align: center;
-    padding: 2px;
-    margin: 5px;
-    padding-top: 15%;
-    padding-left: 25%;
-}
-p{
-    
-        padding: 70px 0;
-        text-align: center;
-        color: rgb(12, 12, 12);
-        margin-top: 20;
-        font-size: small;
-
-}
-
-#about-us{
+#about-us p{
     text-align: center;
 }
 
@@ -38,13 +25,19 @@ p{
     background-image: url(./assets/backgrounds/s_image.jpg);
     background-size: cover;
     height: 50vh;
-    text-align: center;
-    color: white;
-    
+    text-align: center;   
 }
 #services h6{
     color: white;
-}  
+    padding-top: 35px;
+    font-kerning: 50px;
+}
+
+#services h3{
+    padding-top: 25px;
+    color: white;
+
+}
 
 #contact-us{
     background-image: url(./assets/backgrounds/c_image.jpg);
@@ -52,4 +45,16 @@ p{
     height: 50vh;
     color: white;
 }
+
+.row img{
+    height: 150px;
+    width: 150px;
+}
+
+.row2 img{
+    height: 150px;
+    width: 150px;
+}
+
+
    
