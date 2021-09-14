@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    $('#design').toggle();
+    $('#design').hide();
 });
