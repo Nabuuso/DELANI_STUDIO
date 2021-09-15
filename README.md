@@ -1,20 +1,20 @@
-# {DELANI STUDIO}
-#### {A brief description of what the studio does and how they do it.}, {14th September 2021}
-#### By **{Sr Betty Nabuuso(fsp)}**
+# DELANI STUDIO
+#### A brief description of what the studio does and how they do it. 14th September 2021
+#### By **Sr Betty Nabuuso(fsp)
 ## Description
-{Description of what the studio does and how they do it. }
+Description of what the studio does and how they do it.
 ## Setup/Installation Requirements
 * No requirements needed
 ## Known Bugs
-{No bugs}
+No bugs
 ## Technologies Used
-{*HTML 
+*HTML 
 *CSS. 
 *Bootstrap
 *Jquery
-*Javascript}
+*Javascript
 ## wagabaliz@gmail.com
 ### License
-*{MIT}*
-Copyright (c) {2021} **{Sr Betty Nabuuso(fsp)}**
+*MIT*
+Copyright (c) 2021 **Sr Betty Nabuuso(fsp)
   
