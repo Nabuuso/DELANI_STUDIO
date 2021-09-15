@@ -9,8 +9,8 @@ $(document).ready(function(){
     $("#development").hide();
     $("#product").hide();
     $(".imgtoggle-1, .imgtoggle-1").click(function(){
-        $("#design").hide();
-        $(".imgtoggle-1").hide();
+        $("#design").hide(1000);
+        $(".imgtoggle-1").hide(1000);
     });
 
     $(".imgtoggle-2, .imgtoggle-2").click(function(){

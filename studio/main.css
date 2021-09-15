@@ -135,6 +135,8 @@ button{
     size: 150px;
 }
 
-
+.whatwedo section .icons{
+    visibility: hidden;
+}
 
 
