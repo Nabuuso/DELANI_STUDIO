@@ -1,5 +1,5 @@
 # DELANI STUDIO
-#### A brief description of what the studio does and how they do it. 14th September 2021
+#### A landing page for a fictional studio, what the studio does and how they do it. 14th September 2021
 #### By **Sr Betty Nabuuso(fsp)
 ## Description
 Description of what the studio does and how they do it.
