@@ -4,7 +4,8 @@
 ## Description
 Description of what the studio does and how they do it.
 ## Setup/Installation Requirements
-* No requirements needed
+*Terminal {Ctrl+Alt+T}
+*Visual Studio code
 ## Known Bugs
 No bugs
 ## Technologies Used
